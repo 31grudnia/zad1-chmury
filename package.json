@@ -1,0 +1,14 @@
+{
+  "name": "docker-zadanie1",
+  "version": "1.0.0",
+  "description": "Zadanie 1 na Programowanie Aplikacji w Chmurze Obliczeniowej",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikolaj Starczewski",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.1-security"
+  }
+}
